@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Armaan &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=joshuagilgallon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joshuagilgallon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
-
 ## 🚀 About Me
 Full-stack developer based in Perth, Western Australia. Working on multiple projects behind the scenes.
 
