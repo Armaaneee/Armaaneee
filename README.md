@@ -48,6 +48,7 @@ Full-stack developer based in Perth, Western Australia. Working on multiple proj
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white)
 
 ### Design Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
