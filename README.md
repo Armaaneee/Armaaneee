@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Armaan</h1>
 <h3 align="center">Full-stack developer from Perth, Australia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Armaaneee&label=Profile%20views&color=0e75b6&style=flat" alt="Armaaneee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuagilgallon&label=Profile%20views&color=0e75b6&style=flat" alt="Armaaneee" /> </p>
 
 - I’m currently working on multiple projects
 
