@@ -1,14 +1,3 @@
-# 👋 Hi, I'm Armaan &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=joshuagilgallon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-
-## 🚀 About Me
-Full-stack developer based in Perth, Western Australia. Working on multiple projects behind the scenes.
-
-## 💬 Get in Touch
-- Email: asjblue28@gmail.com
-- Discord: <a href="https://discord.com/users/1004923184199520328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="985064786473668618" height="30" width="40" /></a>
-
-## 🛠️ Tech Stack
-
 ### Frontend Development
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -56,5 +45,3 @@ Full-stack developer based in Perth, Western Australia. Working on multiple proj
 ### Other Tools
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
----
