@@ -5,10 +5,6 @@
 ## 🚀 About Me
 Full-stack developer based in Perth, Western Australia. Working on multiple projects behind the scenes.
 
-## 💬 Get in Touch
-- Email: asjblue28@gmail.com
-- Discord: <a href="https://discord.com/users/1004923184199520328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="985064786473668618" height="30" width="40" /></a>
-
 ## 🛠️ Tech Stack
 
 ### Frontend Development
@@ -60,4 +56,17 @@ Full-stack developer based in Perth, Western Australia. Working on multiple proj
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
+## 💬 Get in Touch
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asjblue28@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1004923184199520328)
+
+</div>
+
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+</div>
