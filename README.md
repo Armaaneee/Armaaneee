@@ -60,7 +60,7 @@ Full-stack developer based in Perth, Western Australia. Working on multiple proj
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asjblue28@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-FF7C29?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asjblue28@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1004923184199520328)
 
 </div>
